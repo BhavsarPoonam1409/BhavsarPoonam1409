@@ -3,7 +3,7 @@ I am a Software Development student at Gujarat University with a strong interest
 
 
 ## 🌐 Socials:
-[LinkedIn](https://www.linkedin.com/in/poonam-bhavsar) 
+[LinkedIn](https://www.linkedin.com/in/poonam-bhavsar-293148388) 
 [EmailId](poonambhavsar5351@gmail.com)
 
 # 💻 Tech Stack:
