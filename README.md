@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Software Development student at Gujarat University with a strong interest in programming and problem-solving.<br><br>I am currently learning Python, Java, Web Development, and Database Management, and improving my logical thinking through hands-on practice.<br>My goal is to become a skilled Software Engineer and build real-world, impactful applications.
+I am a Software Development student at Gujarat University with a strong interest in programming and problem-solving.<br><br>I am currently learning Python Django Framework, Advance Java IDE, Web Apllication,DSA and Database Management, and improving my logical thinking through hands-on practice.<br>My goal is to become a skilled Software Engineer and build real-world, impactful applications.
 
 
 ## 🌐 Socials:
