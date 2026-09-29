@@ -2,7 +2,7 @@
 
 # Poonam Bhavsar
 
-### Software Development Student | DSA | Backend Development
+### Second Year | DSA | Backend Development | Software Development Student
 
 <p>
   <a href="https://github.com/BhavsarPoonam1409">
