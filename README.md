@@ -254,7 +254,7 @@ A web application for managing electrician services and operations.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BhavsarPoonam1409&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+username=BhavsarPoonam1409&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
 
 <img src="https://streak-stats.demolab.com?user=BhavsarPoonam1409&theme=tokyonight&hide_border=true" width="48%" />
 
@@ -264,7 +264,7 @@ A web application for managing electrician services and operations.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavsarPoonam1409&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="45%" />
+
 
 </div>
 
