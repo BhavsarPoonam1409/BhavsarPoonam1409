@@ -270,15 +270,6 @@ A web application for managing electrician services and operations.
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BhavsarPoonam1409&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-
-</div>
-
----
 
 ## Connect
 
