@@ -1,84 +1,63 @@
-<h1 align="center">Hi 👋, I'm Poonam Bhavsar</h1>
+<h1 align="center">Poonam Bhavsar</h1>
 
-<h3 align="center">Software Development Student • DSA • Backend Development • Problem Solving</h3>
+<p align="center">
+  <b>Software Development Student | DSA | Backend Development</b>
+</p>
 
 <p align="center">
   <a href="https://github.com/BhavsarPoonam1409">
-    <img src="https://komarev.com/ghpvc/?username=BhavsarPoonam1409&label=Profile%20Views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=BhavsarPoonam1409&label=Profile%20Views&style=flat" />
   </a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-I'm a **second-year Software Development student at Gujarat University**, interested in software development, problem-solving and building practical applications.
+I am a Software Development student at Gujarat University with a strong interest in programming, problem-solving, and software development.
 
-Currently, I'm strengthening my skills in **Data Structures & Algorithms, Java, Python, Django, Web Development and Database Management** through coding practice, academic projects and real-world development.
+I am currently working on Data Structures and Algorithms, Advanced Java, Advanced Python, Django, Web Development, and Database Management. I enjoy learning through hands-on practice and building applications that strengthen my technical skills.
 
-* 🎓 B.Sc. Information Technology — Software Development
-* 📚 Currently in **Semester 3**
-* 💻 Learning **Advanced Java & Advanced Python**
-* 🧠 Practicing **DSA and problem-solving**
-* 🌐 Building applications using **Python & Django**
-* 🗄️ Working with **MySQL & Database Management**
-* 🔧 Using **Git & GitHub** for version control
-* 🚀 Preparing for software development internships and placements
+My current focus is on improving problem-solving ability, understanding core computer science concepts, and developing practical backend and web applications.
+
+**Current Goal:** To become a skilled Software Engineer and build reliable, real-world applications.
 
 ---
 
-# 💻 Tech Stack
+## Education
+
+**M.Sc. Information Technology**
+Gujarat University
+Currently pursuing — Semester 3
+
+---
+
+## Technical Skills
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### 🧑‍💻 Languages
+### Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
 </td>
 
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### ⚙️ Backend & Frameworks
-
-<p>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Advanced%20Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Servlet-5382A1?style=for-the-badge&logo=java&logoColor=white"/>
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-### 🌐 Web Development
+### Backend & Frameworks
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-</td>
-
-<td valign="top">
-
-### 🗄️ Database
-
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/DBMS-003B57?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java%20Servlet-5382A1?style=flat-square&logo=java&logoColor=white"/>
 </p>
 
 </td>
@@ -87,25 +66,49 @@ Currently, I'm strengthening my skills in **Data Structures & Algorithms, Java, 
 <tr>
 <td valign="top">
 
-### 🛠️ Tools & Platforms
+### Web Development
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
 </td>
 
 <td valign="top">
 
-### 🧰 Development Environment
+### Databases
 
 <p>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
-<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### Tools & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+</p>
+
+</td>
+
+<td valign="top">
+
+### Development Environment
+
+<p>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
 </p>
 
 </td>
@@ -114,65 +117,51 @@ Currently, I'm strengthening my skills in **Data Structures & Algorithms, Java, 
 
 ---
 
-# 🧠 Data Structures & Algorithms
+## Data Structures & Algorithms
 
-Currently building strong fundamentals in **DSA and problem-solving**.
+Currently developing my problem-solving skills through consistent DSA practice.
 
-<p align="center">
+Topics I am working on include:
 
-`Arrays` • `2D Arrays` • `Strings` • `Searching` • `Sorting`
+`Arrays` `2D Arrays` `Strings` `Searching` `Sorting` `Bit Manipulation`
 
-`Kadane's Algorithm` • `Bit Manipulation` • `Linked Lists`
+`Linked Lists` `Stacks` `Queues` `Recursion` `Trees` `Binary Search`
 
-`Stacks` • `Queues` • `Recursion` • `Trees` • `Binary Search`
-
-</p>
-
-### 🎯 My Approach
-
-```text
-Learn Concept
-     ↓
-Understand Pattern
-     ↓
-Solve Basic Problems
-     ↓
-Solve Variations
-     ↓
-Interview-Level Problems
-     ↓
-Revise & Re-solve
-```
+My approach is to understand the concept first, then solve problems from basic implementations to variations and interview-oriented problems.
 
 ---
 
-# 🚀 Current Learning
+## Current Learning
 
 <table align="center">
 <tr>
-<td align="center">☕<br><b>Advanced Java</b></td>
-<td align="center">🐍<br><b>Advanced Python</b></td>
-<td align="center">🧠<br><b>DSA</b></td>
-<td align="center">🌐<br><b>Web Development</b></td>
+<td align="center"><b>Advanced Java</b></td>
+<td align="center"><b>Advanced Python</b></td>
+<td align="center"><b>Data Structures & Algorithms</b></td>
 </tr>
 
 <tr>
-<td align="center">🗄️<br><b>DBMS</b></td>
-<td align="center">🐧<br><b>Linux</b></td>
-<td align="center">📊<br><b>Data Administration</b></td>
-<td align="center">🔧<br><b>Git & GitHub</b></td>
+<td align="center"><b>Django</b></td>
+<td align="center"><b>Database Management</b></td>
+<td align="center"><b>Linux</b></td>
+</tr>
+
+<tr>
+<td align="center"><b>Web Development</b></td>
+<td align="center"><b>Data Administration</b></td>
+<td align="center"><b>Git & GitHub</b></td>
 </tr>
 </table>
 
 ---
 
-# 📂 Featured Projects
+## Projects
 
-### 🎬 BookMyShow — Django Web Application
+### BookMyShow — Django Web Application
 
-A movie booking web application developed using **Python and Django**.
+A movie booking web application developed using Python and Django.
 
-**Features:**
+**Features**
 
 * Movie management
 * Theater management
@@ -182,95 +171,48 @@ A movie booking web application developed using **Python and Django**.
 * Booking functionality
 * Ratings and reviews
 
-**Tech:** `Python` `Django` `HTML` `CSS` `MySQL`
+**Technologies:** Python, Django, HTML, CSS, MySQL
 
 ---
 
-### 🌾 CropWise AI
+### CropWise AI
 
-A Django-based agricultural advisory project focused on providing crop-related guidance.
+A Django-based agricultural advisory application developed to provide crop-related guidance.
 
-**Tech:** `Python` `Django` `AI/API` `HTML` `CSS`
-
----
-
-### ⚡ Electrician Services
-
-A web application for managing electrician services and operations.
-
-**Tech:** `Web Development` `Database` `CRUD`
+**Technologies:** Python, Django, API, HTML, CSS
 
 ---
 
-# 📊 GitHub Statistics
+### Electrician Services
+
+A web-based service management application for managing electrician services and operations.
+
+**Technologies:** Web Development, Database, CRUD
+
+---
+
+## GitHub Statistics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=BhavsarPoonam1409&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BhavsarPoonam1409&theme=tokyonight&hide_border=true" height="180"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=BhavsarPoonam1409&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=BhavsarPoonam1409&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavsarPoonam1409&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavsarPoonam1409&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 </p>
 
 ---
 
-# 📈 Contribution Activity
+## Contribution Activity
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhavsarPoonam1409&theme=tokyo-night&hide_border=true&area=true"/>
-
 </p>
 
 ---
 
-# 🔥 100 Days of DSA
-
-Currently working toward building consistency in DSA practice.
-
-```text
-DSA in Java
-──────────────
-Arrays
-  ↓
-2D Arrays
-  ↓
-Strings
-  ↓
-Searching
-  ↓
-Sorting
-  ↓
-Linked List
-  ↓
-Stack & Queue
-  ↓
-Trees
-  ↓
-Advanced Problem Solving
-```
-
-🎯 **Goal:** Improve problem-solving skills through consistent practice.
-
----
-
-# 🎓 Education
-
-### Gujarat University
-
-**Bachelor of Science in Information Technology — Software Development**
-
-📍 **Second Year • Semester 3**
-
----
-
-# 🤝 Connect With Me
+## Connect
 
 <p align="center">
 
@@ -279,7 +221,7 @@ Advanced Problem Solving
 </a>
 
 <a href="mailto:poonambhavsar5351@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/BhavsarPoonam1409">
@@ -290,8 +232,6 @@ Advanced Problem Solving
 
 ---
 
-<h3 align="center">💻 Learn • Build • Practice • Improve</h3>
-
 <p align="center">
-⭐ Thanks for visiting my profile!
+<b>Learn. Build. Practice. Improve.</b>
 </p>
