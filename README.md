@@ -14,9 +14,9 @@
  <a href="https://www.linkedin.com/in/poonam-bhavsar-293148388">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-  <a href="mailto:poonambhavsar5351@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+ <a href="mailto:poonambhavsar5351@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 </div>
