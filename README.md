@@ -254,7 +254,7 @@ A web application for managing electrician services and operations.
 
 <div align="center">
 
-username=BhavsarPoonam1409&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+
 
 <img src="https://streak-stats.demolab.com?user=BhavsarPoonam1409&theme=tokyonight&hide_border=true" width="48%" />
 
