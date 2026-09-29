@@ -1,14 +1,25 @@
-<h1 align="center">Poonam Bhavsar</h1>
+<div align="center">
 
-<p align="center">
-  <b>Software Development Student | DSA | Backend Development</b>
-</p>
+# Poonam Bhavsar
 
-<p align="center">
+### Software Development Student | DSA | Backend Development
+
+<p>
   <a href="https://github.com/BhavsarPoonam1409">
-    <img src="https://komarev.com/ghpvc/?username=BhavsarPoonam1409&label=Profile%20Views&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=BhavsarPoonam1409&label=Profile%20Views&style=flat-square" />
   </a>
 </p>
+
+<p>
+  <a href="https://www.linkedin.com/in/poonam-bhavsar-293148388">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:poonambhavsar5351@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+</div>
 
 ---
 
@@ -16,19 +27,34 @@
 
 I am a Software Development student at Gujarat University with a strong interest in programming, problem-solving, and software development.
 
-I am currently working on Data Structures and Algorithms, Advanced Java, Advanced Python, Django, Web Development, and Database Management. I enjoy learning through hands-on practice and building applications that strengthen my technical skills.
+I am currently strengthening my skills in **Data Structures and Algorithms, Advanced Java, Advanced Python, Django, Web Development, and Database Management** through hands-on practice and project development.
 
-My current focus is on improving problem-solving ability, understanding core computer science concepts, and developing practical backend and web applications.
+I enjoy understanding how applications work, solving programming problems, and turning concepts into practical projects.
 
-**Current Goal:** To become a skilled Software Engineer and build reliable, real-world applications.
+My goal is to become a skilled Software Engineer and build reliable, real-world applications.
 
 ---
 
 ## Education
 
+<table>
+<tr>
+<td width="70%">
+
 **M.Sc. Information Technology**
 Gujarat University
-Currently pursuing — Semester 3
+
+Currently pursuing — **Semester 3**
+
+</td>
+
+<td width="30%" align="center">
+
+**Software Development**
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -41,23 +67,22 @@ Currently pursuing — Semester 3
 ### Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### Backend & Frameworks
+### Backend Development
 
 <p>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java%20Servlet-5382A1?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java%20Servlet-5382A1?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 </td>
@@ -69,19 +94,20 @@ Currently pursuing — Semester 3
 ### Web Development
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 </td>
 
 <td valign="top">
 
-### Databases
+### Database
 
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/DBMS-003B57?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
 </td>
@@ -90,25 +116,24 @@ Currently pursuing — Semester 3
 <tr>
 <td valign="top">
 
-### Tools & Platforms
+### Tools
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 </td>
 
 <td valign="top">
 
-### Development Environment
+### Platforms & Environment
 
 <p>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
-<img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
 </p>
 
 </td>
@@ -119,15 +144,28 @@ Currently pursuing — Semester 3
 
 ## Data Structures & Algorithms
 
-Currently developing my problem-solving skills through consistent DSA practice.
+I am actively building my problem-solving skills through structured DSA practice.
 
-Topics I am working on include:
+### Topics
 
-`Arrays` `2D Arrays` `Strings` `Searching` `Sorting` `Bit Manipulation`
+<p align="center">
 
-`Linked Lists` `Stacks` `Queues` `Recursion` `Trees` `Binary Search`
+<img src="https://img.shields.io/badge/Arrays-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/2D%20Arrays-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Strings-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Binary%20Search-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Sorting-1F6FEB?style=flat-square"/>
 
-My approach is to understand the concept first, then solve problems from basic implementations to variations and interview-oriented problems.
+<img src="https://img.shields.io/badge/Bit%20Manipulation-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Linked%20List-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Stack-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Queue-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Recursion-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Trees-1F6FEB?style=flat-square"/>
+
+</p>
+
+My focus is on understanding patterns and progressing from **basic problems to variations and interview-oriented questions**.
 
 ---
 
@@ -135,21 +173,17 @@ My approach is to understand the concept first, then solve problems from basic i
 
 <table align="center">
 <tr>
-<td align="center"><b>Advanced Java</b></td>
-<td align="center"><b>Advanced Python</b></td>
-<td align="center"><b>Data Structures & Algorithms</b></td>
-</tr>
-
-<tr>
-<td align="center"><b>Django</b></td>
-<td align="center"><b>Database Management</b></td>
-<td align="center"><b>Linux</b></td>
+<td align="center" width="25%"><b>Advanced Java</b></td>
+<td align="center" width="25%"><b>Advanced Python</b></td>
+<td align="center" width="25%"><b>DSA</b></td>
+<td align="center" width="25%"><b>Django</b></td>
 </tr>
 
 <tr>
 <td align="center"><b>Web Development</b></td>
+<td align="center"><b>Database Management</b></td>
+<td align="center"><b>Linux</b></td>
 <td align="center"><b>Data Administration</b></td>
-<td align="center"><b>Git & GitHub</b></td>
 </tr>
 </table>
 
@@ -157,64 +191,98 @@ My approach is to understand the concept first, then solve problems from basic i
 
 ## Projects
 
-### BookMyShow — Django Web Application
+<table>
+<tr>
+<td width="33%" valign="top">
 
-A movie booking web application developed using Python and Django.
+### BookMyShow
+
+A movie booking web application built using Django.
 
 **Features**
 
 * Movie management
 * Theater management
-* Show scheduling
+* Show schedules
 * Seat management
-* Movie search
-* Booking functionality
-* Ratings and reviews
+* Booking
+* Ratings & reviews
 
-**Technologies:** Python, Django, HTML, CSS, MySQL
+**Stack**
 
----
+`Python` `Django` `HTML` `CSS` `MySQL`
+
+</td>
+
+<td width="33%" valign="top">
 
 ### CropWise AI
 
-A Django-based agricultural advisory application developed to provide crop-related guidance.
+A Django-based agricultural advisory application designed to provide crop-related guidance.
 
-**Technologies:** Python, Django, API, HTML, CSS
+**Stack**
 
----
+`Python` `Django` `API`
+
+`HTML` `CSS`
+
+</td>
+
+<td width="33%" valign="top">
 
 ### Electrician Services
 
-A web-based service management application for managing electrician services and operations.
+A web application for managing electrician services and operations.
 
-**Technologies:** Web Development, Database, CRUD
+**Features**
+
+* Service management
+* CRUD operations
+* Database integration
+
+**Stack**
+
+`Web Development` `Database`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## GitHub Statistics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BhavsarPoonam1409&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-<img src="https://streak-stats.demolab.com?user=BhavsarPoonam1409&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavsarPoonam1409&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=BhavsarPoonam1409&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+
+<img src="https://streak-stats.demolab.com?user=BhavsarPoonam1409&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavsarPoonam1409&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="45%" />
+
+</div>
 
 ---
 
 ## Contribution Activity
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BhavsarPoonam1409&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BhavsarPoonam1409&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+</div>
 
 ---
 
 ## Connect
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/poonam-bhavsar-293148388">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -228,10 +296,12 @@ A web-based service management application for managing electrician services and
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
-<b>Learn. Build. Practice. Improve.</b>
-</p>
+<div align="center">
+
+### Learn • Build • Practice • Improve
+
+</div>
